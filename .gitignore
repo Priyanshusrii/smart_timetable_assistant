@@ -2,6 +2,7 @@
 .streamlit/
 timetable.db
 authentication.py
+testing.py
 # Secret Keys
 
 credentials.json
